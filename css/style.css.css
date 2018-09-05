@@ -1,0 +1,16 @@
+.navbar{
+    background-color: deepskyblue;
+}
+.inicio{
+    background-image: url(https://www.rodei.com.br/wp-content/uploads/2013/10/Avatar-1160x480.jpg);
+    background-size: cover;
+}
+
+#conteudoInicio{
+    padding-bottom: 200px;
+    padding-top: 100px;
+}
+.conteudo{
+    height: 100%;
+    padding-top: 40px;
+}
